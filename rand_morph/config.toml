@@ -1,0 +1,5 @@
+CONSONANTS = "x w y c s n ŋ k d t j b h r m p f ɲ"
+VOWELS = "a i ɨ u e o"
+LONG_VOWEL_RATE = 0.3
+MAX_LENGTH = 2
+MORPH_NUM = 1
